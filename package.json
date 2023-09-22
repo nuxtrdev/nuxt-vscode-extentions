@@ -1,0 +1,34 @@
+{
+    "name": "nuxt-vscode-extentions",
+    "displayName": "Nuxt Extension Pack",
+    "description": "A collection of extensions for working with Nuxt/Vue 3 Framework in VS Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.82.0"
+    },
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#00DC82",
+        "theme": "light"
+    },
+    "keywords": [
+        "vue",
+        "nuxt",
+        "vuejs",
+        "nuxtjs",
+        "Extension Pack",
+        "Nuxt Extension Pack"
+    ],
+    "repository": "https://github.com/nuxtrdev/nuxt-vscode-extentions",
+    "homepage": "https://nuxtr.com",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "antfu.goto-alias",
+        "Nuxt.mdc",
+        "Nuxtr.nuxtr-vscode",
+        "Vue.volar",
+        "Vue.vscode-typescript-vue-plugin"
+    ]
+}
