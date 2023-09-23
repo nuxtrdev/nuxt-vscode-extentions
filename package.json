@@ -2,7 +2,7 @@
     "name": "nuxt-vscode-extentions",
     "displayName": "Nuxt Extension Pack",
     "description": "A collection of extensions for working with Nuxt/Vue 3 Framework in VS Code.",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.82.0"
     },
@@ -10,8 +10,8 @@
     "icon": "media/logo.png",
     "publisher": "Nuxtr",
     "galleryBanner": {
-        "color": "#00DC82",
-        "theme": "light"
+        "color": "#18181B",
+        "theme": "dark"
     },
     "keywords": [
         "vue",
