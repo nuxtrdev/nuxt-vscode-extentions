@@ -7,6 +7,8 @@
         "vscode": "^1.82.0"
     },
     "license": "MIT",
+    "icon": "media/logo.png",
+    "publisher": "Nuxtr",
     "galleryBanner": {
         "color": "#00DC82",
         "theme": "light"
