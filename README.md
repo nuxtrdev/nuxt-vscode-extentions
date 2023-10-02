@@ -9,6 +9,11 @@
     A collection of extensions for working with Nuxt/Vue 3 Framework in VS Code.
   </p>
 
+  <div align="center">
+        <a href="https://marketplace.visualstudio.com/items?itemName=Nuxtr.nuxtr-vscode" target="_blank"><img src="https://img.shields.io/visual-studio-marketplace/v/Nuxtr.nuxt-vscode-extentions.svg?color=blue&label=VS%20Code%20Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=Nuxtr.nuxtr-vscode" target="_blank"><img src="https://img.shields.io/visual-studio-marketplace/i/Nuxtr.nuxt-vscode-extentions?color=blue&label=Installs&logo=visual-studio-code" alt="Visual Studio Marketplace Installs" /></a>
+    </div>
+
   <p align="center">
     <a target="_blank" href="https://github.com/nuxtrdev/nuxt-vscode-extentions/discussions/new?category=extension-suggestions">
       <strong>Suggest Extensions</strong> »
