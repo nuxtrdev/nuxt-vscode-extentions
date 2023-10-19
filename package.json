@@ -1,36 +1,42 @@
 {
-    "name": "nuxt-vscode-extentions",
-    "displayName": "Nuxt Extension Pack",
-    "description": "A collection of extensions for working with Nuxt/Vue 3 Framework in VS Code.",
-    "version": "0.0.4",
-    "engines": {
-        "vscode": "^1.82.0"
-    },
-    "license": "MIT",
-    "icon": "media/logo.png",
-    "publisher": "Nuxtr",
-    "galleryBanner": {
-        "color": "#18181B",
-        "theme": "dark"
-    },
-    "keywords": [
-        "vue",
-        "nuxt",
-        "vuejs",
-        "nuxtjs",
-        "Extension Pack",
-        "Nuxt Extension Pack"
-    ],
-    "repository": "https://github.com/nuxtrdev/nuxt-vscode-extentions",
-    "homepage": "https://nuxtr.com",
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "antfu.goto-alias",
-        "Nuxt.mdc",
-        "Nuxtr.nuxtr-vscode",
-        "Vue.volar",
-        "Vue.vscode-typescript-vue-plugin"
-    ]
+  "name": "nuxt-vscode-extentions",
+  "displayName": "Nuxt Extension Pack",
+  "description": "A collection of extensions for working with Nuxt/Vue 3 Framework in VS Code.",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "scripts": {
+    "release": "changelogen --release --push && vsce publish --no-dependencies"
+  },
+  "license": "MIT",
+  "icon": "media/logo.png",
+  "publisher": "Nuxtr",
+  "galleryBanner": {
+    "color": "#18181B",
+    "theme": "dark"
+  },
+  "keywords": [
+    "vue",
+    "nuxt",
+    "vuejs",
+    "nuxtjs",
+    "Extension Pack",
+    "Nuxt Extension Pack"
+  ],
+  "repository": "https://github.com/nuxtrdev/nuxt-vscode-extentions",
+  "homepage": "https://nuxtr.com",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "antfu.goto-alias",
+    "Nuxt.mdc",
+    "Nuxtr.nuxtr-vscode",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin"
+  ],
+  "devDependencies": {
+    "changelogen": "^0.5.5"
+  }
 }
