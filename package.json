@@ -33,8 +33,7 @@
     "antfu.goto-alias",
     "Nuxt.mdc",
     "Nuxtr.nuxtr-vscode",
-    "Vue.volar",
-    "Vue.vscode-typescript-vue-plugin"
+    "Vue.volar"
   ],
   "devDependencies": {
     "changelogen": "^0.5.5"
