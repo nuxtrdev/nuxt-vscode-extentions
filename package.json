@@ -2,7 +2,7 @@
   "name": "nuxt-vscode-extentions",
   "displayName": "Nuxt Extension Pack",
   "description": "A collection of extensions for working with Nuxt/Vue 3 Framework in VS Code.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.82.0"
   },
@@ -33,6 +33,6 @@
     "Vue.volar"
   ],
   "devDependencies": {
-    "changelogen": "^0.5.5"
+    "changelogen": "^0.5.7"
   }
 }
